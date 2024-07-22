@@ -56,6 +56,8 @@ const App = () => {
       });
   };
 
+  console.log(notes);
+
   return (
     <div>
       <h1>Notes</h1>
